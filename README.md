@@ -1,2 +1,3 @@
-# Personal Portofolio
-Disuruh buat portofolio, yaudah gitu aja.
+# Tugas About Me 101
+Tugas About Me 101 - Masa Pengenalan Departemen Ilmu Komputer (Pekan Ilkomers)
+
